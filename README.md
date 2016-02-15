@@ -1,2 +1,3 @@
 # london
-London it!
+London Premium Wordpress Theme
+
